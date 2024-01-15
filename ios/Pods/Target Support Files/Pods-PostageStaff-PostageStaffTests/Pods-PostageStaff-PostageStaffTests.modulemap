@@ -1,0 +1,6 @@
+module Pods_PostageStaff_PostageStaffTests {
+  umbrella header "Pods-PostageStaff-PostageStaffTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
